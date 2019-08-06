@@ -1,4 +1,4 @@
-## akka-circe-repo-case
+## akka-circe-nullable-json-repro-case
 
 This is a reproduction case for strange behavior when using akka and circe together to decode nullable json documents.
 
