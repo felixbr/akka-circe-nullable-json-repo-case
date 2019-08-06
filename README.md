@@ -2,7 +2,7 @@
 
 This is a reproduction case for strange behavior when using akka and circe together to decode nullable json documents.
 
-Everything interesting is located in `AkkaCirceNullableJsonSpec`.
+Everything interesting is located in [AkkaCirceNullableJsonSpec](https://github.com/felixbr/akka-circe-nullable-json-repo-case/blob/master/src/test/scala/AkkaCirceNullableJsonSpec.scala).
 
 ### Commands
 
